@@ -1,0 +1,1 @@
+each function could have multiple gt functions.
